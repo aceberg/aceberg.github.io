@@ -16,7 +16,7 @@ timezone: Asia/Novosibirsk
 
 title: Andrew Erlikh # the main title
 
-tagline: Software Engineer # it will display as the sub-title
+tagline: Linux, DevOps, Golang # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Personal blog about Linux, DevOps, Golang.

@@ -23,7 +23,7 @@ Monitoring is the last one, because it's not the main purpose of this app. There
 
 ![Screenshot](https://raw.githubusercontent.com/aceberg/WatchYourPorts/main/assets/Screenshot1.png) 
 
-# Details
+## Details
 
 - No DataBase, all config is stored in two `yaml` files.
 - All configuration can be done through `ENV` variables, `yaml` or `GUI`.
@@ -32,7 +32,7 @@ Monitoring is the last one, because it's not the main purpose of this app. There
 - Export to `InfluxDB2`, which allows to build a `Grafana` dashboard.
 - Simple [API](https://github.com/aceberg/watchyourports#api) to get data from `WatchYourPorts`.
 
-# How
+## How
 Full installation guide is available in the [README](https://github.com/aceberg/WatchYourPorts) file. The easiest way to try it:
 
 ```sh
