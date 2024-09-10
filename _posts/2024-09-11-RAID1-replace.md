@@ -1,11 +1,11 @@
 ---
 title: Replace disk in RAID1 on Debian/Ubuntu
-date: 2024-09-11 01:02:00 +/-0700
+date: 2024-09-11 00:52:00 +/-0700
 categories: [Linux, System]
 tags: [hardware, mdadm]     # TAG names should always be lowercase
 ---
 
-So, my 14 years old Hitachi 2Tb HDD finally kicked the bucket.
+So, my 13 years old Hitachi 2Tb HDD finally kicked the bucket.
 
 ## Before replacing
 First, I made sure I have working backups. `RAID1` is great, but it is **NOT** a backup!
@@ -41,3 +41,8 @@ or
 ```sh
 cat /proc/mdstat
 ```
+
+## Hero
+Worked 13 years almost non-stop   
+
+![disk](https://raw.githubusercontent.com/aceberg/aceberg.github.io/main/assets/userimages/hdd-hitachi.jpg)
