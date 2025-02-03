@@ -5,7 +5,7 @@ order: 5
 ---
 # Andrew Erlikh
 *Fullstack-developer/Linux sysadmin*   
-aceberg_a@proton.me
+[aceberg_a@proton.me](mailto:aceberg_a@proton.me)
 
 ## About me
 
@@ -29,12 +29,12 @@ aceberg_a@proton.me
             <td>React (MobX)</td>
         </tr>
         <tr>
-            <td>JavaScript</td>
-            <td><a href="https://github.com/aceberg/ExerciseDiary">ExerciseDiary</a></td>
-        </tr>
-        <tr>
             <td>SolidJS</td>
             <td><a href="https://github.com/aceberg/DiaryMD">DiaryMD</a></td>
+        </tr>
+        <tr>
+            <td>JavaScript</td>
+            <td><a href="https://github.com/aceberg/ExerciseDiary">ExerciseDiary</a></td>
         </tr>
         <tr>
             <td rowspan=4>Backend</td>
@@ -54,11 +54,56 @@ aceberg_a@proton.me
     </tbody>
 </table>
 
-## Projects
+#### Sysadmin skills
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Level</th>
+            <th>Name</th>
+            <th>Level</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Ansible</td>
+            <td>* * * * *</td>
+            <td>bash/shell</td>
+            <td>* * * * *</td>
+        </tr>
+        <tr>
+            <td>Docker</td>
+            <td>* * * * *</td>
+            <td>git</td>
+            <td>* * * *</td>
+        </tr>
+        <tr>
+            <td>Grafana</td>
+            <td>* * * *</td>
+            <td>CI/CD</td>
+            <td>* * *</td>
+        </tr>
+        <tr>
+            <td>VMs</td>
+            <td>* * *</td>
+            <td>Kubernetes</td>
+            <td>* *</td>
+        </tr>
+    </tbody>
+</table>
+Also, all standard Linux sysadmin skills, like configuring backups, firewalls, LVMs, monitoring etc.
 
 ## Work experience
-#### 2022-now
-#### 2011-2024
+#### 2022-now: Fullstack-developer
+Developed more than 10 apps for personal and work purposes. Such as:
+
+| Logo | Name  | Description | Stack | Badges |
+| -------- | --------  | ----------- | ------- | ------- |
+| [<img src="https://raw.githubusercontent.com/aceberg/AnyAppStart/main/assets/logo.png" alt="logo" width="30"/>](https://github.com/aceberg/AnyAppStart) | [AnyAppStart](https://github.com/aceberg/AnyAppStart) | Start/Stop/View Logs for apps in Docker, Systemd, VMs or anything else (with user scripts) | Go, TypeScript, React (MobX) | ![GitHub Repo stars](https://img.shields.io/github/stars/aceberg/AnyAppStart?style=flat&logo=github&color=%23038000) |
+| [<img src="https://raw.githubusercontent.com/aceberg/ExerciseDiary/main/assets/logo.png" alt="logo" width="30"/>](https://github.com/aceberg/ExerciseDiary) | [ExerciseDiary](https://github.com/aceberg/ExerciseDiary) | Workout diary with GitHub-style year visualization | Go, JavaScript, Chart.js, HTML/CSS | ![GitHub Repo stars](https://img.shields.io/github/stars/aceberg/ExerciseDiary?style=flat&logo=github&color=%23038000) ![Docker Pulls](https://img.shields.io/docker/pulls/aceberg/exercisediary?style=flat&logo=docker)|
+| [<img src="https://raw.githubusercontent.com/aceberg/WatchYourLAN/main/assets/logo.png" alt="logo" width="30"/>](https://github.com/aceberg/WatchYourLAN) | [WatchYourLAN](https://github.com/aceberg/WatchYourLAN) | Lightweight network IP scanner with web GUI | Go, JavaScript, Bootstrap, HTML/CSS | ![GitHub Repo stars](https://img.shields.io/github/stars/aceberg/WatchYourLAN?style=flat&logo=github&color=%23038000) ![Docker Pulls](https://img.shields.io/docker/pulls/aceberg/watchyourlan?style=flat&logo=docker)|
+
+#### 2011-2024: Linux sysadmin
 
 ## Education
 #### University
