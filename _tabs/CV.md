@@ -8,7 +8,7 @@ order: 5
 [aceberg_a@proton.me](mailto:aceberg_a@proton.me)
 
 ## About me
-I have been working with Open Source software for years, both professionally and personally. While configuring and using existing software is valuable, I discovered my true passion when I started building my own. From that moment on, I knew there was no turning back—I enjoy creating applications tailored to specific needs, whether for work or personal projects.
+I have been working with Open Source software for years, both professionally and personally. While configuring and using existing software is valuable, I discovered my true passion when I started building my own. From that moment on, I knew there was no turning back - I enjoy creating applications tailored to specific needs, whether for work or personal projects.
 
 Now, I’m looking for a role as a Frontend Developer (React) or Backend Developer (Go). I’m equally comfortable in both areas and eager to contribute to meaningful projects.
 
@@ -47,7 +47,5 @@ Over a decade of experience managing Linux infrastructure, automation, and secur
 - Configured CI/CD pipelines and enhanced system monitoring with Grafana
 
 ## Education
-#### University
-Software Development (5 years)
-#### RHCE
-Red Hat Certified Engineer (RHEL5)
+- Software Development (5 years)
+- RHCE - Red Hat Certified Engineer (RHEL5)
