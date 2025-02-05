@@ -14,7 +14,7 @@ Now, I’m looking for a role as a Frontend Developer (React) or Backend Develop
 
 ## Skills
 #### Backend
-- Go (gin), API - example: [WatchYourLAN](https://github.com/aceberg/WatchYourLAN)
+- Go (gin, API) - example: [WatchYourLAN](https://github.com/aceberg/WatchYourLAN)
 - Go (telegram-bot-api) - example: [LinuxExecBot](https://github.com/aceberg/LinuxExecBot)
 
 #### Frontend
@@ -22,59 +22,29 @@ Now, I’m looking for a role as a Frontend Developer (React) or Backend Develop
 - SolidJS - example: [DiaryMD](https://github.com/aceberg/DiaryMD)
 - JavaScript, HTML/CSS, Bootstrap - example: [ExerciseDiary](https://github.com/aceberg/ExerciseDiary)
 
-#### Sysadmin skills
-<table>
-    <thead>
-        <tr>
-            <th>Name</th>
-            <th>Level</th>
-            <th>Name</th>
-            <th>Level</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Ansible</td>
-            <td>* * * * *</td>
-            <td>bash/shell</td>
-            <td>* * * * *</td>
-        </tr>
-        <tr>
-            <td>Docker</td>
-            <td>* * * * *</td>
-            <td>git</td>
-            <td>* * * *</td>
-        </tr>
-        <tr>
-            <td>Grafana</td>
-            <td>* * * *</td>
-            <td>CI/CD</td>
-            <td>* * *</td>
-        </tr>
-        <tr>
-            <td>VMs</td>
-            <td>* * *</td>
-            <td>Kubernetes</td>
-            <td>* *</td>
-        </tr>
-    </tbody>
-</table>
-Also, all standard Linux sysadmin skills, like configuring backups, firewalls, LVMs, monitoring etc.
+#### Sysadmin & DevOps:
+- Linux administration (backups, firewalls, monitoring, LVMs)
+- Ansible, Bash/Shell, Docker
+- Grafana, Git, CI/CD, Kubernetes
 
 ## Work experience
-#### 2022-now: Fullstack Developer
-Developed more than 10 apps for personal and work purposes. Such as:
+#### Fullstack Developer (2022 – Present)
+Developed over 10 applications for personal and professional use, focusing on backend efficiency and frontend usability. Key projects:
 
 [<img src="https://raw.githubusercontent.com/aceberg/AnyAppStart/main/assets/logo.png" alt="logo" width="30"/>](https://github.com/aceberg/AnyAppStart) [AnyAppStart](https://github.com/aceberg/AnyAppStart) (Go, TypeScript, React (MobX))   
-Start/Stop/View Logs for apps in Docker, Systemd, VMs or anything else (with user scripts)
+- Built a web-based tool to Start/Stop/View Logs for apps in Docker, Systemd, VMs or anything else
 
 [<img src="https://raw.githubusercontent.com/aceberg/ExerciseDiary/main/assets/logo.png" alt="logo" width="30"/>](https://github.com/aceberg/ExerciseDiary) [ExerciseDiary](https://github.com/aceberg/ExerciseDiary) (Go, JavaScript, Chart.js, HTML/CSS)   
-Workout diary with GitHub-style year visualization 
+- Created a workout diary with GitHub-style year visualization 
 
 [<img src="https://raw.githubusercontent.com/aceberg/WatchYourLAN/main/assets/logo.png" alt="logo" width="30"/>](https://github.com/aceberg/WatchYourLAN) [WatchYourLAN](https://github.com/aceberg/WatchYourLAN) (Go, JavaScript, Bootstrap, HTML/CSS)   
-Lightweight network IP scanner with web GUI 
+- Developed a lightweight network IP scanner with web GUI 
 
-#### 2011-2024: Linux Sysadmin
+#### Linux System Administrator (2011 – 2024)
+Over a decade of experience managing Linux infrastructure, automation, and security.
+- Maintained server and desktop infrastructure
+- Automated workflows using Ansible and optimized deployments with Docker
+- Configured CI/CD pipelines and enhanced system monitoring with Grafana
 
 ## Education
 #### University
