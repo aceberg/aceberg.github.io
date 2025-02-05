@@ -4,15 +4,19 @@ icon: fas fa-list-alt
 order: 5
 ---
 # Andrew Erlikh
-*Fullstack-developer/Linux sysadmin*   
+*Frontend Developer (React)/Backend Developer (Go)/Linux Sysadmin*   
 [aceberg_a@proton.me](mailto:aceberg_a@proton.me)
 
 ## About me
+I have been working with Open Source software for years, both professionally and personally. While configuring and using existing software is valuable, I discovered my true passion when I started building my own. From that moment on, I knew there was no turning back—I enjoy creating applications tailored to specific needs, whether for work or personal projects.
+
+Now, I’m looking for a role as a Frontend Developer (React) or Backend Developer (Go). I’m equally comfortable in both areas and eager to contribute to meaningful projects.
 
 ## Skills
 #### Backend
 - Go (gin), API - example: [WatchYourLAN](https://github.com/aceberg/WatchYourLAN)
 - Go (telegram-bot-api) - example: [LinuxExecBot](https://github.com/aceberg/LinuxExecBot)
+
 #### Frontend
 - TypeScript, React (MobX) - example: [AnyAppStart](https://github.com/aceberg/AnyAppStart)
 - SolidJS - example: [DiaryMD](https://github.com/aceberg/DiaryMD)
@@ -58,7 +62,7 @@ order: 5
 Also, all standard Linux sysadmin skills, like configuring backups, firewalls, LVMs, monitoring etc.
 
 ## Work experience
-#### 2022-now: Fullstack-developer
+#### 2022-now: Fullstack Developer
 Developed more than 10 apps for personal and work purposes. Such as:
 
 [<img src="https://raw.githubusercontent.com/aceberg/AnyAppStart/main/assets/logo.png" alt="logo" width="30"/>](https://github.com/aceberg/AnyAppStart) [AnyAppStart](https://github.com/aceberg/AnyAppStart) (Go, TypeScript, React (MobX))   
@@ -70,7 +74,7 @@ Workout diary with GitHub-style year visualization
 [<img src="https://raw.githubusercontent.com/aceberg/WatchYourLAN/main/assets/logo.png" alt="logo" width="30"/>](https://github.com/aceberg/WatchYourLAN) [WatchYourLAN](https://github.com/aceberg/WatchYourLAN) (Go, JavaScript, Bootstrap, HTML/CSS)   
 Lightweight network IP scanner with web GUI 
 
-#### 2011-2024: Linux sysadmin
+#### 2011-2024: Linux Sysadmin
 
 ## Education
 #### University
