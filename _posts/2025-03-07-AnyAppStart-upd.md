@@ -1,5 +1,5 @@
 ---
-title: AnyAppStart
+title: AnyAppStart Update
 date: 2025-03-06 16:52:00 +/-0700
 categories: [MyApps, AnyAppStart]
 tags: [golang, react, selfhosted]     # TAG names should always be lowercase
